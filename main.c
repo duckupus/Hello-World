@@ -169,21 +169,6 @@ uint8_t endl(uint8_t x) { /* \n */
 }
 
 int main() {
-	/*
-	 * Short rundown of what the code does
-	 * H: return value of function
-	 * e: logic gates
-	 * l: xor
-	 * l: xorshift prng
-	 * o: offets
-	 *  : recursive adding function
-	 * W: using sprintf
-	 * o: ASCII value difference
-	 * r: runtime values
-	 * l: linked lists
-	 * d: factorizing values
-	 *\n: good ol math (tbh I ran out of time and got lazy for this Zzz)
-	 */
 	uint8_t H = quack();
 	putchar(H); //H
 
